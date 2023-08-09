@@ -1,0 +1,49 @@
+Compras txt
+
+---------------------------------------------
+
+Producto:      arroz
+Precio: 10.5
+Cantidad: 20
+
+---------------------------------------------
+
+Cantidad: 15
+Producto:   atun
+Precio: 8.99
+
+---------------------------------------------
+
+Producto: huevos
+Cantidad: 5
+Precio: 25.75
+
+---------------------------------------------
+
+Cantidad: 15
+Producto: pan
+Precio: 8.99
+
+---------------------------------------------
+
+Producto: melon
+Cantidad: 5
+Precio: 25.75
+
+---------------------------------------------
+
+Producto: sardina
+Cantidad: 5
+Precio: 25.75
+
+---------------------------------------------
+
+Producto: gambas
+Cantidad: 5
+Precio: 25.75
+
+---------------------------------------------
+
+Producto: Turrón
+Cantidad: 1
+Precio: 3.5
